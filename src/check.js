@@ -1,3 +1,4 @@
 {
+    SVGDefsElement
     fgfsg     fff      
 }
